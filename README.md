@@ -8,3 +8,5 @@ Specially for MVPs, the name chosen at the beginning of the project will probabl
 
 ## Make sure event date is correct before ordering food
 Imagine you order food, but you find out the event is actually tomorrow.
+
+## Make your Twitter etc. focused on one thing
