@@ -10,3 +10,6 @@ Specially for MVPs, the name chosen at the beginning of the project will probabl
 Imagine you order food, but you find out the event is actually tomorrow.
 
 ## Make your Twitter etc. focused on one thing
+
+## pgweb is a good GUI for postgress
+https://github.com/sosedoff/pgweb/releases/tag/v0.9.6
