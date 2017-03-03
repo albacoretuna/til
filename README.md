@@ -20,3 +20,17 @@ https://github.com/sosedoff/pgweb/releases/tag/v0.9.6
 1. yargs is a nice NPM package to make CLI tools with nodejs
 
 1. Inspecting the tldr package on NPM, shows they use commander a dead simple cli package, and chack for coloring it, and the content is in markdown files on home directory of the user
+
+1. There's a nice set of react patterns ([link](http://reactpatterns.com/#state-hoisting)), that has good examples, more clear than the docs in some cases.
+  This one explains state hoisting or how to put a text input inside a stateless function:
+  ```javascript
+  class NameContainer extends React.Component {
+  render() {
+    return <Name onChange={newName => alert(newName)} />
+  }
+}
+
+const Name = ({ onChange }) =>
+  <input onChange={e => onChange(e.target.value)} />
+``` 
+  
