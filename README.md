@@ -18,3 +18,5 @@ https://github.com/sosedoff/pgweb/releases/tag/v0.9.6
 ## Whatever chat system your team uses, you go there becuase of the people not the software, have fun, don't worry much.
 
 ## yargs is a nice NPM package to make CLI tools with nodejs
+
+### Inspecting the tldr package on NPM, shows they use commander a dead simple cli package, and chack for coloring it, and the content is in markdown files on home directory of the user
