@@ -39,3 +39,5 @@ const Name = ({ onChange }) =>
 1. About pros and cons of reuse: http://blog.jessitron.com/2017/02/reuse.html
 
 1. you can inspect AVA tests, or any nodejs program in chrome dev tools just like normal javascript on pages very smoothly using [inspector](https://github.com/jaridmargolin/inspect-process)
+
+1. this library wraps native modules of nodejs like fs in promises, like modernizer for node [mz link](https://github.com/normalize/mz)
