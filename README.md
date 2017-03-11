@@ -37,3 +37,5 @@ const Name = ({ onChange }) =>
 1. There are many (PWA) progressive web apps currently in prodcution and many of libraries they use are open source and here's a good article on it by Addy Osmani ([link](Nice article summarizing many libraries in production https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.7p9rf5gm7)) 
 
 1. About pros and cons of reuse: http://blog.jessitron.com/2017/02/reuse.html
+
+1. you can inspect AVA tests, or any nodejs program in chrome dev tools just like normal javascript on pages very smoothly using [inspector](https://github.com/jaridmargolin/inspect-process)
