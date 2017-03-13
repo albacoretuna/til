@@ -43,3 +43,5 @@ const Name = ({ onChange }) =>
 1. this library wraps native modules of nodejs like fs in promises, like modernizer for node [mz link](https://github.com/normalize/mz)
 
 1. this package is great for publishing to npm [np link](https://github.com/sindresorhus/np)
+1. list of cool node js stuff, including great CLI tools [awesome nodejs link](https://github.com/sindresorhus/awesome-nodejs#command-line-apps)
+1. you can get random cows in command line [link](https://www.npmjs.com/package/cows)
