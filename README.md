@@ -45,3 +45,4 @@ const Name = ({ onChange }) =>
 1. this package is great for publishing to npm [np link](https://github.com/sindresorhus/np)
 1. list of cool node js stuff, including great CLI tools [awesome nodejs link](https://github.com/sindresorhus/awesome-nodejs#command-line-apps)
 1. you can get random cows in command line [link](https://www.npmjs.com/package/cows)
+1. nvm can migrate all global packages while installing a new version on nodejs [link](https://github.com/creationix/nvm#migrating-global-packages-while-installing)
