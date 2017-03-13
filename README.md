@@ -56,3 +56,4 @@ aspell list < document.txt
 # to check multiple files
 find *.txt -exec aspell check {} \;
 ```
+1. [Node Green](https://node.green) has a full list of all ES6 features by version 
