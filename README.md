@@ -41,3 +41,5 @@ const Name = ({ onChange }) =>
 1. you can inspect AVA tests, or any nodejs program in chrome dev tools just like normal javascript on pages very smoothly using [inspector](https://github.com/jaridmargolin/inspect-process)
 
 1. this library wraps native modules of nodejs like fs in promises, like modernizer for node [mz link](https://github.com/normalize/mz)
+
+1. this package is great for publishing to npm [np link](https://github.com/sindresorhus/np)
