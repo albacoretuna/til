@@ -57,3 +57,4 @@ aspell list < document.txt
 find *.txt -exec aspell check {} \;
 ```
 1. [Node Green](https://node.green) has a full list of all ES6 features by version 
+1. npm install -g covgen and then covgen <your email address> creates a code of contact! 
