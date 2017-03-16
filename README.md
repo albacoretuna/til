@@ -33,6 +33,9 @@ https://github.com/sosedoff/pgweb/releases/tag/v0.9.6
 const Name = ({ onChange }) =>
   <input onChange={e => onChange(e.target.value)} />
 ``` 
+
+1. there's this nice webpack setting generator for webpack / project setup https://github.com/linuxenko/unstuck-webpack 
+1. you can register foo.js.org for javascript projects
   
 1. There are many (PWA) progressive web apps currently in prodcution and many of libraries they use are open source and here's a good article on it by Addy Osmani ([link](Nice article summarizing many libraries in production https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.7p9rf5gm7)) 
 
