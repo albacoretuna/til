@@ -62,3 +62,4 @@ find *.txt -exec aspell check {} \;
 1. [Node Green](https://node.green) has a full list of all ES6 features by version 
 1. npm install -g covgen and then covgen <your email address> creates a code of contact! 
 1. create an automatic forward list of emails emaillist.io [(link)](https://emaillist.io)
+1. Mew can be used for making CLI tools like magic [(link)](https://github.com/sindresorhus/is-up-cli/blob/master/cli.js)
