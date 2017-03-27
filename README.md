@@ -64,3 +64,4 @@ find *.txt -exec aspell check {} \;
 1. create an automatic forward list of emails emaillist.io [(link)](https://emaillist.io)
 1. Meow can be used for making CLI tools like magic [(link)](https://github.com/sindresorhus/is-up-cli/blob/master/cli.js)
 1. Animista can generate css animations by point and clicking [(link)](http://animista.net/)
+1. an http wrapper for postgres written in haskel Putting a translator in front of postgres [(link)](https://github.com/begriffs/postgrest)
