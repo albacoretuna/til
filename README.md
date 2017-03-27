@@ -65,4 +65,11 @@ find *.txt -exec aspell check {} \;
   *  Meow can be used for making CLI tools like magic [(link)](https://github.com/sindresorhus/is-up-cli/blob/master/cli.js)
   *  Animista can generate css animations by point and clicking [(link)](http://animista.net/)
   *  an http wrapper for postgres written in haskel Putting a translator in front of postgres [(link)](https://github.com/begriffs/postgrest)
+  
+  * add ip manually to jail in fail2ban 
+  ```bash
+  sudo fail2ban-client -vvv set sshd banip 202.109.0.0/16
+  
+  # Check the jail where to add the IP using sudo fail2ban-client status
+  ```
 
