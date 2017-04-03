@@ -72,4 +72,4 @@ find *.txt -exec aspell check {} \;
   
   # Check the jail where to add the IP using sudo fail2ban-client status
   ```
-
+  * A nice list of public apis https://github.com/toddmotto/public-apis
