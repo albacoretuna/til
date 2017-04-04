@@ -33,7 +33,7 @@ https://github.com/sosedoff/pgweb/releases/tag/v0.9.6
 const Name = ({ onChange }) =>
   <input onChange={e => onChange(e.target.value)} />
 ``` 
-
+  *  Luddite has come to mean one opposed to industrialisation, automation, computerisation or new technologies in general. Wikipedia.
   *  there's this nice webpack setting generator for webpack / project setup https://github.com/linuxenko/unstuck-webpack 
   *  you can register foo.js.org for javascript projects
   
